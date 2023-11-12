@@ -1,0 +1,68 @@
+body
+{background-color:rgba(0, 0, 0, 0.744)}
+
+p{
+    background-color:green;
+    font-size: 35px;
+    align-items: center;
+
+}
+
+.table
+{
+ 
+    border-collapse:collapse;
+    background-color:white;
+    height: 400px;
+    width: 100%;
+    border: black 2px solid;
+   text-align: center;
+   align-items: center;
+   
+   
+
+    
+}
+tr,td,th
+{ 
+    border: black 1px solid;
+}
+
+
+
+th
+{background-color: green;
+
+}
+
+.green
+{
+    background-color: rgb(129, 222, 129);
+}
+
+.lightgreen
+{
+    background-color: rgb(150, 185, 150);
+}
+    
+button
+{
+    
+    width: 60px;
+    height: 25px;
+    border-radius: 10px;
+
+
+}
+
+.con
+{
+background-color: rgba(59, 74, 207, 0.982);
+
+   
+}
+
+.del
+{
+    background-color: rgb(183, 93, 93);
+}
